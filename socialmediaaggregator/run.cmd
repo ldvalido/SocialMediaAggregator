@@ -1,0 +1,1 @@
+java -jar target/socialmediaaggregator-0.0.1-SNAPSHOT.jar

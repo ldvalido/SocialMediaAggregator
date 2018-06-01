@@ -1,0 +1,1 @@
+java -jar target/socialMediaAggregator-Daemon-0.0.1-SNAPSHOT.jar
